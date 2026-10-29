@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: Replace the example.com domain with the lodge's confirmed website domain.
+Sitemap: https://example.com/sitemap.xml

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- TODO: Replace example.com with the lodge's confirmed website domain. -->
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/about</loc></url>
+  <url><loc>https://example.com/hot-springs</loc></url>
+  <url><loc>https://example.com/rooms</loc></url>
+  <url><loc>https://example.com/gallery</loc></url>
+  <url><loc>https://example.com/dining</loc></url>
+  <url><loc>https://example.com/contact</loc></url>
+  <url><loc>https://example.com/faq</loc></url>
+</urlset>
